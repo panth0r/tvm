@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email       = ["kory@virlo.net"]
   s.homepage    = ""
   s.summary     = %q{a simple Time Value of Money calculator using Ruby}
-  s.description = %q{still outstanding}
+  s.description = %q{the goal of this project is to make time value of money calculations easily available through a RubyGem; future functionality is likely to include the pricing of various assets (namely, options come to mind) as well as the ability to access stock prices (though asset pricing and pulling stock prices may be better served by creating separate RubyGems)}
 
   s.rubyforge_project = "tvm"
 
